@@ -9,12 +9,10 @@ This repository contains the documentation of sessions dated from Dec 29 to Jan 
 
 ## 📁 Contents
 - Milestone-wise project documentation  
-- Presentation files (`.pptx`)  
 
 ---
 
-## 📄 Note
-PowerPoint files are not previewed on GitHub.  
+## 📄 Note 
 Please download the files to view them.
 
 ---
